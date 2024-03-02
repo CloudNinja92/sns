@@ -1,0 +1,15 @@
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.*
+.terraform/*
+
+.Keisha*
+.Keisha.box.lock.hcl*
+.Keisha.box.tfstate*
+.Keisha.box/*
+
+.Lizzo*
+Lizzo.lock.hcl*
+.Lizzo.tfstate.*
+.Lizzo/*
+*.csv
